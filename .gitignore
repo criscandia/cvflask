@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+__pychache__/
+.env
+/bin
+/lib/python3.9/site-packages/
+/lib64/
+/vscode/
